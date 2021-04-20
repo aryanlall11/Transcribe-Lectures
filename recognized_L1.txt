@@ -1,0 +1,636 @@
+[0.0] 
+on biosensors and Biomass this is our third week and the topics that will be covering today and this week that would be Thursday there is no class tomorrow. 
+
+[15.0] 
+are the topics to be covered as sensor specifications sensor Technology Centre testing and Centre sensor interfaces so we will be covering specifications. 
+
+[30.0] 
+today and then we'll go on to. 
+
+[45.0] 
+visit to different text we are using only the introduction petrol price in service my jio new new 2nd edition from Splendor and the other textbook in several Smith which is Michael. 
+
+[60.0] 
+7th edition from Oxford University Press. 
+
+[75.0] 
+Dr Dhananjay notice who is the scientist with Agarkar Research Institute in Pune and he gave a lecture class faith on bio MEMS sensor specifically which utilizes microphone. 
+
+[90.0] 
+upon creating a microfluidic s a shape. 
+
+[105.0] 
+out to the technology aspects as well as a sensing and split testing aspects for. 
+
+[120.0] 
+this is actually not an in Vivo system is a simulated vehicle in the cerebrospinal fluid flow sensor and what went on there is this is mimicking the action of. 
+
+[135.0] 
+which is called the peritoneal shunt and it moves cerebrospinal fluid from the brain to the term. 
+
+[150.0] 
+tube milk lot so can we actually locate the clotting point and even better can we predict the protein area so please don't Basic Physics principles we looked at a PDF with 32. 
+
+[165.0] 
+we created basically we squeezed it using. 
+
+[180.0] 
+Bubbles which are generated from. 
+
+[195.0] 
+decreased this is as a predictor for supporting their effort to generate the right if it is. 
+
+[210.0] 
+also has to be optimised for the sol of this work resulted in an us packing for a group. 
+
+[225.0] 
+coaching on the Mimosa plant and there we saw that the plants manipulate six petals in response to external stimuli such as touch light vibration and heat. 
+
+[240.0] 
+in class assignment I am giving in class assignments are basically very short assignments in something for you to think about and these assignments the material which is discussed will be also part of the syllabus. 
+
+[255.0] 
+so the question here is doesn't actually detect heat or does it eat a temperature what is the difference if you have a heat sensor if a temperature sensor how would you distinguish. 
+
+[270.0] 
+what's the difference. 
+
+[285.0] 
+smartphones with a lot of inspired by vinati designs which have already been created as products in the market. 
+
+[300.0] 
+are discussing biosensors. 
+
+[315.0] 
+28 Thursday. 
+
+[330.0] 
+yes and based on that it should not copy word by word the Abstract of the papers should be in your own words and what you are planning to look at in those abstracts is basically. 
+
+[345.0] 
+how we are discuss. 
+
+[360.0] 
+then how do you test it how do you fabricated how do you test it and what are the applications of the most important points. 
+
+[375.0] 
+what would be the sensors useful for service order biomimetic application will work. 
+
+[390.0] 
+deprecated how do you test it. 
+
+[405.0] 
+this needs to be submitted by Thursday which is today's from now so please consider this date likes to be hard deadlines and now we are all on WhatsApp everything so you can contact. 
+
+[420.0] 
+but please follow the deadlines Because lot of marks associated with this in class. 
+
+[435.0] 
+list of bricks sensor specifications in which we look at the transfer function which is basically if you are having mostly systems so then Y as a function of X equal to. 
+
+[450.0] 
+to the nonlinear system that you know we have taken take a look at it the the transfer function is essentially output input. 
+
+[465.0] 
+in class assignment for you. 
+
+[480.0] 
+this transfer functions in frequency domain what benefits does it give us. 
+
+[495.0] 
+so many other devices but the question remains the saying that if we Express it in frequency domain what additional benefit we plan to have. 
+
+[510.0] 
+sensor specifications and sensitivity dynamic range resolution bandwidth and many others. 
+
+[525.0] 
+you have resistor capacitor inductor the basic r lfc. 
+
+[540.0] 
+BJT types and structure or it could be in channel of p channel MOSFET type of transistor. 
+
+[555.0] 
+so there is no issues with the understanding. 
+
+[570.0] 
+can be realised from the transistor itself resistor capacitor diode all of this can be realised from the transistors. 
+
+[585.0] 
+types of transistors cal. 
+
+[600.0] 
+glass or polymer. 
+
+[615.0] 
+from outside the body. 
+
+[630.0] 
+familiar with this so most of this topic that were discussing on at the class 11 12 level study in physics in class 11 12. 
+
+[645.0] 
+state bank officer get head. 
+
+[660.0] 
+is there capacitors and inductors with unida ac Bridge for making measurements. 
+
+[675.0] 
+and so is the transistor so all of these devices can be tested using DC and ac bridges. 
+
+[690.0] 
+discuss in brief divided DC converters and Transformers so essentially what it does it changes the voltage level the familiar with Transformers so they were condition. 
+
+[705.0] 
+if it is the DC voltage when user DC to DC Converter. 
+
+[720.0] 
+amplifier configuration. 
+
+[735.0] 
+12th physics textbooks you have something called a voltage controlled current source. 
+
+[750.0] 
+voltage controlled voltage source. 
+
+[765.0] 
+the dependent sources are depicted as diamonds. 
+
+[780.0] 
+essentially another way to look at it is that visa amplifier. 
+
+[795.0] 
+to new names one is there transconductance amplifier and transresistance amplifier. 
+
+[810.0] 
+airport transfer resistance and the input is current and output is voltage remember we talked about the transfer function of the sensor this is described in terms of transfer functions the voltage amplifier transfer function. 
+
+[825.0] 
+football Tej by input voltage so the dimensions affected and mentioned this but it is written as WhatsApp words. 
+
+[840.0] 
+is divided into two switches force upon sorry fitness conductance amplifier is output current by Input voltages and clear over volts so that is the units for this. 
+
+[855.0] 
+the point here is that you can consider them as dependent sources diamonds which you may be familiar with the so-called voltage control voltage source is nothing but a voltage amplifier. 
+
+[870.0] 
+show the point in all of this is that you have a device called in operational amplifier it is actually an integrated circuit or an IC. 
+
+[885.0] 
+voltage amplifier connect amplifier transconductance amplifier transistor in CE amplifier and there is a reason for that is the reason why for example if you have a sensor which is providing currents which is the phone. 
+
+[900.0] 
+reason why you would use the transfer resistance amplifier for example to convert it into a voltage source. 
+
+[915.0] 
+dependent voltage and current sources in Rapid 2. 
+
+[930.0] 
+xender app them want to other that is there. 
+
+[945.0] 
+digital to analogue converter. 
+
+[960.0] 
+in y which is output and X which is input. 
+
+[975.0] 
+Chaudhari between output voltage output is a voltage and input is acceleration sensor it is converting a physical signal to and. 
+
+[990.0] 
+this relationship is weak will to 1.5 volt plus acceleration X 167 millivolts upon g g is the acceleration. 
+
+[1005.0] 
+plated 2.2 g. 
+
+[1020.0] 
+ration is 4.2 g. 
+
+[1035.0] 
+would like the sensors to be the highest possible sensor. 
+
+[1050.0] 
+which is Activa small rate but within the train it will measure very very accurately so if there is something like a temperature sensor with the output is voltage and the input is. 
+
+[1065.0] 
+so if you have one volt per Keval that means 11 degree temperature change will give you one volt in the output. 
+
+[1080.0] 
+1 Milli can we change will give you 1 volt is the output of Bsc 1 volt per Mili Kelvin will be more sensitive than the one word per can be. 
+
+[1095.0] 
+talked about in the previous life they didn't sell 150 the sensitivity is 167 Mini boards per ji. 
+
+[1110.0] 
+become the dynamic range so basically saying is that you can measure from this point to the point energy state is dynamic range is. 
+
+[1125.0] 
+it is very high sensitivity dynamic range will be low and vice versa. 
+
+[1140.0] 
+uncertainty in making measurements so then there is always this issue that how accurate is. 
+
+[1155.0] 
+example these days you can skip it can the practical application of this that you have this non contact thermometer which are used to detect that whether you are having symptoms of covid. 
+
+[1170.0] 
+ok you have thought this. 
+
+[1185.0] 
+very accurate. 
+
+[1200.0] 
+put it in your mouth that you get different temperature readings. 
+
+[1215.0] 
+not as accurate so you know it's not a very good way to determine that whether you are having the symptoms or not again this is just my observation. 
+
+[1230.0] 
+is the census. 
+
+[1245.0] 
+strain gauge so what that means is if space is inflicted on the sensor then strain is reported it and as it is in the elastic region region. 
+
+[1260.0] 
+proportional to strain and the proportionality constant is well Young's modulus writing your familiar with all of this. 
+
+[1275.0] 
+Sabhi arising continuously inspiration strain and babywear starting from the origin 200 and then we come back we find that we are not come back to the origin. 
+
+[1290.0] 
+physical in physical terms what it means. 
+
+[1305.0] 
+internal stress in the system rate zero stress but nevertheless you are still recording some strain as you keep moving up and down in the stress versus train access. 
+
+[1320.0] 
+for ever. 
+
+[1335.0] 
+will not expected to have a hysteresis problem but these things are fairly common in census the next issue is the nonlinear it is so we mention that. 
+
+[1350.0] 
+Y equal to X rays that is a characteristic of a new device but when we discuss the resistors capacitors inductors really on capacitors inductors. 
+
+[1365.0] 
+to be linear device. 
+
+[1380.0] 
+can we linearize. 
+
+[1395.0] 
+so this is a Thermocouple. 
+
+[1410.0] 
+light it up. 
+
+[1425.0] 
+didi. 
+
+[1455.0] 
+different Thermocouple. 
+
+[1485.0] 
+response. 
+
+[1515.0] 
+which is really not sensor specification most of the noise comes from outside but generated in the system as. 
+
+[1560.0] 
+noise is basically the. 
+
+[1575.0] 
+having period in C based on the first day we will see that it is 72 beats per minute so that is 1.2 3rd. 
+
+[1590.0] 
+normally we switch from one hertz to water so that is the centre frequency is that we fall ill. 
+
+[1605.0] 
+features. 
+
+[1620.0] 
+10020 because these features will indicate some problem with the human heart. 
+
+[1635.0] 
+that has history from 100 standard. 
+
+[1650.0] 
+Udaipur coming to some. 
+
+[1680.0] 
+ab to think of this that knowledge is not everything with currency distribution. 
+
+[1695.0] 
+it is a protein temperature in world. 
+
+[1710.0] 
+how does it look like when did not called one by test when it stands for. 
+
+[1725.0] 
+that means not change when we measure. 
+
+[1740.0] 
+Kashmir 370 and the resolution is 800 micro G5 can measure and I can distinguish between 1.8. 
+
+[1755.0] 
+Matka. 
+
+[1770.0] 
+Ludo King at the entire range of frequencies that your sensing device conditioner so we just talked about in the device which measures from 128 Etihad can we know but that is. 
+
+[1785.0] 
+full range battery bachat so this is the frequency domain we talked about this that the transfer function can be expressed in time table as well as frequency domain so what are the benefits of using the transfer function. 
+
+[1800.0] 
+is there any way that you know will be valid for certain frequency. 
+
+[1815.0] 
+that would be a specification and then which will tell you that whether you can do that. 
+
+[1845.0] 
+application also having been divided already a part of your. 
+
+[1875.0] 
+which is needed to prove or register. 
+
+[1890.0] 
+measuring in temperature. 
+
+[1920.0] 
+the locally ke decreases with increasing temperature if you are not familiar with. 
+
+[1935.0] 
+what is resistivity. 
+
+[1950.0] 
+Zen Sigma is equal to. 
+
+[1965.0] 
+of inductor. 
+
+[1980.0] 
+activity but the basic constant is the same increases with the increase in temperature and nothing else is happening then your distance will rise to the top. 
+
+[1995.0] 
+Alpha. 
+
+[2010.0] 
+Sunny Leone and intention in semiconductor in your different temperature. 
+
+[2025.0] 
+present so low the temperature rises. 
+
+[2040.0] 
+graph slope is negative. 
+
+[2055.0] 
+what is my. 
+
+[2070.0] 
+Nickel and copper Platina I don't and having positive temperature. 
+
+[2085.0] 
+negative Chennai contact. 
+
+[2115.0] 
+open voice. 
+
+[2145.0] 
+party shuru. 
+
+[2160.0] 
+coronavirus is breaking a lot Sir what is the. 
+
+[2175.0] 
+can you hear my voice now. 
+
+[2205.0] 
+so what to do list and pictures and when you reach me invitation. 
+
+[2220.0] 
+hello Anil. 
+
+[2250.0] 
+no se no no no no no problem. 
+
+[2265.0] 
+can you. 
+
+[2280.0] 
+Lotto. 
+
+[2295.0] 
+now. 
+
+[2310.0] 
+exactly exactly. 
+
+[2325.0] 
+I just wanted to mention this here I am not sure if it's just an Internet connection problem or is it the teams app because in one of. 
+
+[2355.0] 
+we all can hear each other. 
+
+[2370.0] 
+abstract submission. 
+
+[2385.0] 
+cnk servant post the recording of the class there also will be a lot of discount. 
+
+[2400.0] 
+what. 
+
+[2415.0] 
+I want to know what to do about them. 
+
+[2430.0] 
+but I also I also. 
+
+[2445.0] 
+voltage problem. 
+
+[2460.0] 
+collect. 
+
+[2475.0] 
+I am just shared the files. 
+
+[2490.0] 
+ok guys m82. 
+
+[2505.0] 
+I miss you are in class lesson. 
+
+[2520.0] 
+vs1 Kadir. 
+
+[2535.0] 
+TVS. 
+
+[2550.0] 
+previous. 
+
+[2565.0] 
+pick up that in class assignment. 
+
+[2580.0] 
+Richa doctor power. 
+
+[2595.0] 
+it would be positive Coefficient it would be negative Coefficient write the positive Coefficient for metals where you can see the slope of the graphs. 
+
+[2625.0] 
+server can't listen here you can I think can you see me. 
+
+[2640.0] 
+yes yes. 
+
+[2670.0] 
+beauty PR. 
+
+[2685.0] 
+you say there are two types. 
+
+[2700.0] 
+kaun hai. 
+
+[2715.0] 
+two step to live through this I think recording it so hopefully that will be clear recording it will be recorded. 
+
+[2730.0] 
+eating it will be clear or ok so. 
+
+[2745.0] 
+YouTube PCM materials your positive T shirt material how will you design zero to CMBT. 
+
+[2760.0] 
+registers and sensors. 
+
+[2775.0] 
+resistivity is dependent on the light intensity. 
+
+[2790.0] 
+these are typically indium tin oxide materials. 
+
+[2805.0] 
+captions. 
+
+[2820.0] 
+so here we talked about it that you apply some. 
+
+[2835.0] 
+now we talking about census very use inductors and the basic definition of inductor in should know it is essentially a coin. 
+
+[2850.0] 
+metallic wire and it can find magnetic field which is generated as the current flows through the call. 
+
+[2865.0] 
+that means there is no material inside the coin or they could be specific code materials which are like ferrites so these are called magnetic course. 
+
+[2880.0] 
+Kyun ability of the inductance with certain properties that could be inducted as a sensor and one of the things which comes useful there is the Q factor which needs to be define wet Q = Omega. 
+
+[2895.0] 
+chal bye. 
+
+[2925.0] 
+here it is permeability these are all different terms to the expression for the inductor l is in terms of the permeability which itself is a function of the Disease Control correct if you want to think. 
+
+[2940.0] 
+this inductor is a tunable inductor you have Delta bi l on the y-axis and you have a current on the x-axis then you can think of it as also the current sensor is the current changes. 
+
+[2955.0] 
+inductance English. 
+
+[2970.0] 
+same issue is that the Di permeability is changed by applying a control correct and that is observed in this graph which is inactive. 
+
+[3015.0] 
+we have here is a fluent in the microwave. 
+
+[3030.0] 
+Residency from the graph as the frequency changes the inductance changes if you want to say if you want to look at this sensor there is a sensor then it is sensitive to the frequency of the incoming. 
+
+[3045.0] 
+now again to continue so we are running out of time so sensor can be used as a lvdt aridity cell bdt. 
+
+[3060.0] 
+variable define. 
+
+[3075.0] 
+small distances linear distances or Rotary distances so that is what the element attainability measure now we have for entry of EWS flats. 
+
+[3090.0] 
+capacitor would at the sensor but since there are a lot of time we will take a few questions and then win percentage. 
+
+[3105.0] 
+changing the still it is showing 0. 
+
+[3120.0] 
+now I can say yes no I can't. 
+
+[3135.0] 
+take it so we essentially talked about resistance and inductors as sensors and we talked about sensor specifications. 
+
+[3150.0] 
+you have any questions in this please hello sir. 
+
+[3165.0] 
+get to know that. 
+
+[3180.0] 
+to memorize number. 
+
+[3195.0] 
+to be able to answer that question. 
+
+[3210.0] 
+as a function of x axis as a function of the DC current or affected area. 
+
+[3225.0] 
+to the current frequency AC question ok sir. 
+
+[3240.0] 
+but the basic understanding should be there that power and inductor resistor capacitor diode transistor as all these things can be used as sensors. 
+
+[3255.0] 
+I like all of things are ok with me but one you talked about transfer function so can you give me a reference to read about that how we can you are you are electronic student rights. 
+
+[3270.0] 
+studied in even your bachelors great filters application is filters and amplifier with example. 
+
+[3285.0] 
+output voltage of input voltage ok. 
+
+[3300.0] 
+this transfer function is not measured in frequency domain not in the time domain and frequency response. 
+
+[3315.0] 
+relationship between route and input or output device. 
+
+[3330.0] 
+got it. 
+
+[3345.0] 
+assignment or we can just what did you say all this. 
+
+[3360.0] 
+Hindi very impressed. 
+
+[3375.0] 
+before the noise distribution question we have we had that acceleration to voltage question right. 
+
+[3390.0] 
+any other questions I mean any other boys. 
+
+[3405.0] 
+I just wanted to ask you one of these in class assignment in case we will get stuck somewhere is it ok to let discuss on the WhatsApp. 
+
+[3420.0] 
+you like to give us a good feedback. 
+
+[3435.0] 
+we will switch off now and I am sorry about the internet disturbance. 
+
+[3450.0] 
+enjoy have a good time. 
+
