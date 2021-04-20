@@ -10,7 +10,7 @@ import moviepy.editor as mp
 
 # a function that splits the audio file into chunks 
 # and applies speech recognition 
-def conversion(path = "alice-medium.wav"):
+def conversion():
 	
 	#command = 'ffmpeg -i ' + path + ' -ab 160k -ar 44100 -vn audio.wav'
 	#subprocess.call(command, shell=True)
